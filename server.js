@@ -5,7 +5,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 // Webhook URL
-const webhookUrl = "https://discord.com/api/webhooks/1160240560746008749/gJ24BZWamhdjlvCERM6GsdAGB1WRMTj02gSRmY3LIbcRZQ3mFFZf2hWmDGlom2vQXW7F";
+const webhookUrl = "https://discord.com/api/webhooks//";
 
 // Function to send a message to the webhook
 async function sendMessageToWebhook(url, message) {
