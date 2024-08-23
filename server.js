@@ -5,7 +5,7 @@ const axios = require("axios");
 const dotenv = require('dotenv'); 
 dotenv.config(); // Load environment variables from .env file
 
-// Webhook URL for Discord (replace with your actual webhook)
+// Webhook URL for Discord
 const webhookUrl = "https://discord.com/api/webhooks//";
 
 // Function to send a message to the Discord webhook
